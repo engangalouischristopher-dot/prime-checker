@@ -1,0 +1,7 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "ISC"
+}
